@@ -1,0 +1,7 @@
+.side_bar{
+    background-color: #03034e;
+}
+
+.side_bar_menu{
+    background-color: rgba(255, 255, 255, 0.2); /* White background with 70% opacity */
+}

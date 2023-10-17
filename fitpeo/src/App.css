@@ -1,0 +1,209 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+.ws-10{
+    width:10%;
+}
+
+.ws-15{
+    width:15%;
+}
+
+.ws-20{
+    width:20%;
+}
+
+.ws-30{
+    width:30%;
+}
+
+.ws-40{
+    width:40%;
+}
+
+.ws-50{
+    width:50%;
+}
+
+.ws-60{
+    width:60%;
+}
+
+.ws-70{
+    width:70%;
+}
+
+.ws-80{
+    width:80%;
+}
+
+.ws-90{
+    width:90%;
+}
+
+.ws-100{
+    width:100%;
+}
+.hs-07{
+    height:7%;
+}
+.hs-10{
+    height:10%;
+}
+
+.hs-15{
+    height:15%;
+}
+
+.hs-20{
+    height:20%;
+}
+
+.hs-30{
+    height:30%;
+}
+
+.hs-40{
+    height:40%;
+}
+
+.hs-50{
+    height:50%;
+}
+
+.hs-60{
+    height:60%;
+}
+
+.hs-70{
+    height:70%;
+}
+
+.hs-80{
+    height:80%;
+}
+
+.hs-90{
+    height:90%;
+}
+
+.hs-100{
+    height:100%;
+}
+.fs-02{
+    font-size:0.2rem;
+}
+
+.fs-05{
+    font-size:0.5rem;
+}
+
+.fs-06{
+    font-size:0.6rem;
+}
+
+.fs-07{
+    font-size:0.7rem;
+}
+
+.fs-08{
+    font-size: 0.8rem;
+}
+
+.fs-15{
+    font-size:1.5rem;
+}
+
+.fs-10{
+    font-size:1rem;
+}
+
+.fs-11{
+    font-size:1.1rem;
+}
+
+.fs-12{
+    font-size:1.2rem;
+}
+
+.op{
+    opacity:0.5;
+}
+
+.bg-color{
+    background-color: rgb(235, 237, 239);
+}
+
+.symbol-color{
+    background-color: rgb(159, 234, 159);
+}
+
+.bag-color{
+    background-color: pink;
+}
+
+input:focus{
+    outline:none;
+}
+
+input{
+    border:none;
+}
+
+.candle{
+    border-radius:.5rem;
+}
+
+.green{
+    background-color: rgb(213, 235, 213);
+}
+
+.purple{
+    background-color: rgb(236, 205, 236);
+}
+
+.pink{
+    background-color: rgb(241, 188, 188);
+}
+
+.blue{
+    background-color: rgb(169, 225, 242);
+}
+
+.text-purple{
+    color:rgb(235, 164, 235);
+}
+
+.shadow{
+    box-shadow: 3px 3px 3px grey;
+}
+
+.bg-menu-bar{
+    background-color: rgb(181, 173, 225);
+    background-blend-mode: lighten;
+    
+}
+
+.wave::after{
+    content: "\1F44B"; /* Unicode value for a heart */
+    
+    color: red; /* set color */
+}
+
+
+
+/*responsiv */
+@media only screen and (max-width: 1024px) {
+    * {
+      margin:0;
+      padding:0;
+    }
+
+    .side-bar-1024{
+        width:60% !important;
+        height:100% !important;
+    }
+  }
